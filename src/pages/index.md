@@ -44,7 +44,7 @@ sections:
           Our experts will help you take care of all of your roofing needs.
         actions:
           - type: action
-            label: Learn More
+            label: See Our Work
             url: /style-guide
             style: link
   - type: section_content
