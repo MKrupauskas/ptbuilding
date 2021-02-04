@@ -58,7 +58,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "GitHub",
+                "label": "Contact Us",
                 "url": "https://github.com/",
                 "style": "primary",
                 "has_subnav": false
