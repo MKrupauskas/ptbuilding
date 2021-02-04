@@ -111,7 +111,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - type: action
-        label: Get Started
+        label: Contact Us
         url: /docs/getting-started/installation
         style: primary
 template: advanced
