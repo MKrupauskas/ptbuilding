@@ -30,9 +30,9 @@ sections:
             style: link
       - type: grid_item
         title: New Builds
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          We can help you build your dream home with quality and care from start
+          to finish.
         actions:
           - type: action
             label: View Posts
