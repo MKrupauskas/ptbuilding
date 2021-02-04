@@ -4,7 +4,7 @@ sections:
   - type: section_hero
     title: PTBuilding
     section_id: hero
-    image: images/5.jpg
+    image: images/banner.jpg
     content: >
       We are the leaders in small and medium-sized construction projects. A
       qualified team of true experts that are here to help you in your next
@@ -20,6 +20,7 @@ sections:
     grid_items:
       - type: grid_item
         title: Refurbishment
+        image: images/banner.jpg
         content: >
           We can help you refurbish and breathe in new life and character into
           old constructions.
@@ -29,6 +30,7 @@ sections:
             url: /docs
             style: link
       - type: grid_item
+        image: images/house.jpg
         title: New Builds
         content: >
           We can help you build your dream home with quality and care from start
@@ -40,6 +42,7 @@ sections:
             style: link
       - type: grid_item
         title: Roofs
+        image: images/roofs.jpg
         content: |
           Our experts will help you take care of all of your roofing needs.
         actions:
