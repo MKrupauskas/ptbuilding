@@ -106,7 +106,7 @@ sections:
             url: /showcase
             style: link
   - type: section_cta
-    title: The Title of The Call to Action Block
+    title: Let us help you in construction.
     section_id: cta
     subtitle: This is an optional description for the call to action block.
     actions:
