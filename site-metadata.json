@@ -51,7 +51,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "Style Guide",
+                "label": "Services",
                 "url": "/style-guide",
                 "style": "link",
                 "has_subnav": false
