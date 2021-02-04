@@ -5,9 +5,8 @@ sections:
     title: PTBuilding
     section_id: hero
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      We are the leaders in small and medium-sized construction projects.
     actions:
       - type: action
         label: Get Started
