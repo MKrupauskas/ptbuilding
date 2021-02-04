@@ -16,7 +16,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "About",
+                "label": "About Us",
                 "url": "/docs",
                 "style": "link",
                 "has_subnav": false
