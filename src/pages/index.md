@@ -63,7 +63,7 @@ sections:
         url: /docs/getting-started
         style: primary
       - type: action
-        label: Get Started
+        label: View Portfolio
         url: /docs/getting-started
         style: secondary
   - type: section_content
