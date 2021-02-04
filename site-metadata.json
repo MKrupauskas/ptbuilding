@@ -30,7 +30,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "Sample Pages",
+                "label": "Services",
                 "url": "#",
                 "style": "link",
                 "has_subnav": true,
