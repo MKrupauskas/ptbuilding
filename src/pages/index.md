@@ -35,7 +35,7 @@ sections:
           to finish.
         actions:
           - type: action
-            label: View Posts
+            label: See Our Work
             url: /blog
             style: link
       - type: grid_item
