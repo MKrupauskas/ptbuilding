@@ -51,7 +51,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "Contact",
+                "label": "Testimonials",
                 "url": "/style-guide",
                 "style": "link",
                 "has_subnav": false
