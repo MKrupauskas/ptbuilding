@@ -52,8 +52,10 @@ sections:
     section_id: text-img
     image: images/jamstack.svg
     image_position: left
-    content: |
+    content: >
       We are the number one quality providing construction company in the UK.
+      With a great team of experts, we will bring your construction dream to
+      life.
     actions:
       - type: action
         label: Contact Us
