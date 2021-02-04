@@ -30,6 +30,13 @@
             },
             {
                 "type": "action_menu",
+                "label": "Testimonials",
+                "url": "/style-guide",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "type": "action_menu",
                 "label": "Services",
                 "url": "#",
                 "style": "link",
@@ -48,13 +55,6 @@
                         "style": "link"
                     }
                 ]
-            },
-            {
-                "type": "action_menu",
-                "label": "Testimonials",
-                "url": "/style-guide",
-                "style": "link",
-                "has_subnav": false
             },
             {
                 "type": "action_menu",
