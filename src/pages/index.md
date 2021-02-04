@@ -59,7 +59,7 @@ sections:
       We are the number one quality providing construction company in the UK.
     actions:
       - type: action
-        label: View Demo
+        label: Contact Us
         url: /docs/getting-started
         style: primary
       - type: action
