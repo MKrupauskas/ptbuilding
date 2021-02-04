@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Hero Section
+    title: '#1 Quality Providing'
     section_id: hero
     image: images/5.jpg
     content: >-
