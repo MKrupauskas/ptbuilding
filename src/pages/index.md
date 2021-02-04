@@ -25,7 +25,7 @@ sections:
           old constructions.
         actions:
           - type: action
-            label: Get Started
+            label: See Our Work
             url: /docs
             style: link
       - type: grid_item
