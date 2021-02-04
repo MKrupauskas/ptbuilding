@@ -11,7 +11,7 @@ sections:
       construction project.
     actions:
       - type: action
-        label: Get Started
+        label: Contact Us
         url: /docs
         style: primary
   - type: section_grid
