@@ -5,8 +5,10 @@ sections:
     title: PTBuilding
     section_id: hero
     image: images/5.jpg
-    content: |
-      We are the leaders in small and medium-sized construction projects.
+    content: >
+      We are the leaders in small and medium-sized construction projects. A
+      qualified team of true experts that are here to help you in your next
+      construction project.
     actions:
       - type: action
         label: Get Started
