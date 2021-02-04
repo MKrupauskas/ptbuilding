@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Quality Construction
+    title: ''
     section_id: hero
     image: images/5.jpg
     content: >-
