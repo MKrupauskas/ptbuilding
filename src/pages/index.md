@@ -51,7 +51,7 @@ sections:
             url: /style-guide
             style: link
   - type: section_content
-    title: '#1 In Quality'
+    title: Quality Construction
     section_id: text-img
     image: images/jamstack.svg
     image_position: left
