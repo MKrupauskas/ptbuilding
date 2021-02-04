@@ -72,7 +72,7 @@ sections:
       We have delivered many great projects with quality in mind across the UK.
     actions:
       - type: action
-        label: Get Started
+        label: See Our Testimonials
         url: /docs/getting-started/installation
         style: primary
   - type: section_grid
