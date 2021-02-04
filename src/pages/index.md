@@ -66,7 +66,7 @@ sections:
         url: /docs/getting-started
         style: secondary
   - type: section_content
-    title: A Section Without Image
+    title: You're In Good Company
     section_id: text-no-img
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
