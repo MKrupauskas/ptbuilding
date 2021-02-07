@@ -5,6 +5,14 @@ image: images/banner.jpg
 template: page
 ---
 
+Phone: <a href="tel:(+44) 7714 303002">(+44) 7714 303002</a>
+
+E-mail: <a href="mailto:info@ptbuilding.co.uk">info@ptbuilding.co.uk</a>
+
+Address: <a target="_blank" href="https://goo.gl/maps/KsKx2ysNsDapEhdDA">193 Winchester Road, London, E4 9JN</a>
+
+We are open Mn - Fr: 10 am - 6 pm
+
 <form name="contact" method="POST" action="/thank-you" data-netlify="true">
   <input type="hidden" name="form-name" value="contact" />
   <p>

@@ -1,7 +1,7 @@
 ---
-title: Community Round-up
+title: Renovations
 date: '2019-05-27'
-image: images/2.jpg
+image: images/banner.jpg
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing

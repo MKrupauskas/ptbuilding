@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Libris Theme",
+    "title": "PTBuilding",
     "palette": "navy",
     "header": {
         "type": "header",
-        "title": "PTbuilding",
-        "logo_img_alt": "Libris logo",
+        "title": "PTBuilding",
+        "logo_img_alt": "PTBuilding",
         "has_nav": true,
         "nav_links": [
             {
@@ -16,50 +16,43 @@
             },
             {
                 "type": "action_menu",
-                "label": "About Us",
-                "url": "/docs",
+                "label": "About",
+                "url": "/about",
                 "style": "link",
                 "has_subnav": false
             },
             {
                 "type": "action_menu",
                 "label": "Portfolio",
-                "url": "/blog",
+                "url": "/portfolio",
                 "style": "link",
                 "has_subnav": false
             },
             {
                 "type": "action_menu",
                 "label": "Testimonials",
-                "url": "/style-guide",
+                "url": "/testimonials",
                 "style": "link",
                 "has_subnav": false
             },
             {
                 "type": "action_menu",
                 "label": "Services",
-                "url": "#",
+                "url": "/services",
                 "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "type": "action",
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "type": "action",
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ]
+                "has_subnav": false
             },
             {
                 "type": "action_menu",
-                "label": "Contact Us",
-                "url": "https://github.com/",
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "type": "action_menu",
+                "label": "Contact",
+                "url": "/contact",
                 "style": "primary",
                 "has_subnav": false
             }
@@ -72,8 +65,16 @@
         "social_links": [
             {
                 "type": "action",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/PandTBuilding",
+                "style": "icon",
+                "icon_class": "facebook",
+                "new_window": true
+            },
+            {
+                "type": "action",
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "/",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
@@ -81,17 +82,9 @@
             {
                 "type": "action",
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "/",
                 "style": "icon",
                 "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "icon",
-                "icon_class": "github",
                 "new_window": true
             }
         ]

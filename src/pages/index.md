@@ -11,8 +11,8 @@ sections:
       construction project.
     actions:
       - type: action
-        label: Contact Us
-        url: /docs
+        label: Contact
+        url: /contact
         style: primary
   - type: section_grid
     section_id: features
@@ -27,7 +27,7 @@ sections:
         actions:
           - type: action
             label: See Our Work
-            url: /docs
+            url: /portfolio
             style: link
       - type: grid_item
         image: images/house.jpg
@@ -38,7 +38,7 @@ sections:
         actions:
           - type: action
             label: See Our Work
-            url: /blog
+            url: /portfolio
             style: link
       - type: grid_item
         title: Roofs
@@ -48,7 +48,7 @@ sections:
         actions:
           - type: action
             label: See Our Work
-            url: /style-guide
+            url: /portfolio
             style: link
   - type: section_content
     title: Quality Construction
@@ -61,12 +61,12 @@ sections:
       life.
     actions:
       - type: action
-        label: Contact Us
-        url: /docs/getting-started
+        label: Contact
+        url: /contact
         style: primary
       - type: action
         label: View Portfolio
-        url: /docs/getting-started
+        url: /portfolio
         style: secondary
   - type: section_content
     title: You're In Good Company
@@ -76,40 +76,12 @@ sections:
     actions:
       - type: action
         label: See Our Testimonials
-        url: /docs/getting-started/installation
+        url: /testimonials
         style: primary
-  - type: section_grid
-    title: More About Us
-    section_id: features-two-col
-    subtitle: An optional subtitle of the section
-    col_number: two
-    grid_items:
-      - type: grid_item
-        title: About Us
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-        actions:
-          - type: action
-            label: Learn More
-            url: /overview
-            style: link
-      - type: grid_item
-        title: How We Work
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - type: action
-            label: Learn More
-            url: /showcase
-            style: link
   - type: section_cta
-    title: Let Us Help You In Construction.
+    title: Let us help you with your project.
     section_id: cta
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Contact us and we will reach out to you as soon as possible.
     actions:
       - type: action
         label: Contact Us
