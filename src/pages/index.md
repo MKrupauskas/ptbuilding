@@ -31,7 +31,7 @@ sections:
             style: link
       - type: grid_item
         image: images/house.jpg
-        title: New Builds
+        title: Extensions
         content: >
           We can help you build your dream home with quality and care from start
           to finish.
@@ -50,10 +50,41 @@ sections:
             label: See Our Work
             url: /portfolio
             style: link
+      - type: grid_item
+        title: New Builds
+        image: images/p2.jpg
+        content: |
+          We can help you build your dream home with quality and care from start
+          to finish.
+        actions:
+          - type: action
+            label: See Our Work
+            url: /portfolio
+            style: link
+      - type: grid_item
+        title: Finishes
+        image: images/p4.jpg
+        content: |
+          Contruction is all about the little quality details in every build. We can help you finish your interiors.
+        actions:
+          - type: action
+            label: See Our Work
+            url: /portfolio
+            style: link
+      - type: grid_item
+        title: Other Projects
+        image: images/p16.jpg
+        content: |
+          Our team can implement the idea you have. We have a broad range of construction skills.
+        actions:
+          - type: action
+            label: See Our Work
+            url: /portfolio
+            style: link
   - type: section_content
     title: Quality Construction
     section_id: text-img
-    image: images/jamstack.svg
+    image: images/p18.jpg
     image_position: left
     content: >
       We are the number one quality providing construction company in the UK.

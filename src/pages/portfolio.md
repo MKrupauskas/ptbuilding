@@ -11,35 +11,98 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Exto
-        title_url: 'https://themes.stackbit.com/demos/exto/'
-        image: images/6.jpg
-        content: A portfolio theme for Unibit
+        image: images/banner.jpg
+        title: Kitchen
       - type: grid_item
-        title: Fresh
-        title_url: 'https://themes.stackbit.com/demos/fresh/'
-        image: images/7.jpg
-        content: A personal theme for Unibit
+        image: images/house.jpg
+        title: House
       - type: grid_item
-        title: Fjord
-        title_url: 'https://themes.stackbit.com/demos/fjord/'
-        image: images/8.jpg
-        content: A minimal blogging theme for Unibit
+        image: images/roofs.jpg
+        title: Traditional roofs
       - type: grid_item
-        title: Ampersand
-        title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        image: images/9.jpg
-        content: Medium inspired blogging theme for Unibit
+        image: images/p1.jpg
+        title: Kitchen
       - type: grid_item
-        title: Ampersand
-        title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        image: images/9.jpg
-        content: Medium inspired blogging theme for Unibit
+        image: images/p2.jpg
+        title: House
       - type: grid_item
-        title: Ampersand
-        title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        image: images/9.jpg
-        content: Medium inspired blogging theme for Unibit
+        image: images/p3.jpg
+        title: Kitchen
+      - type: grid_item
+        image: images/p4.jpg
+        title: Kitchen
+      - type: grid_item
+        image: images/p5.jpg
+        title: Kitchen
+      - type: grid_item
+        image: images/p6.jpg
+        title: Kitchen
+      - type: grid_item
+        image: images/p7.jpg
+        title: Kitchen
+      - type: grid_item
+        image: images/p8.jpg
+        title: Kitchen
+      - type: grid_item
+        image: images/p9.jpg
+        title: Kitchen
+      - type: grid_item
+        image: images/p10.jpg
+        title: Kitchen
+      - type: grid_item
+        image: images/p11.jpg
+        title: Supports
+      - type: grid_item
+        image: images/p12.jpg
+        title: Refurbishment
+      - type: grid_item
+        image: images/p13.jpg
+        title: Bathroom
+      - type: grid_item
+        image: images/p14.jpg
+        title: Bathroom
+      - type: grid_item
+        image: images/p15.jpg
+        title: Kitchen
+      - type: grid_item
+        image: images/p16.jpg
+        title: Lawn
+      - type: grid_item
+        image: images/p17.jpg
+        title: House
+      - type: grid_item
+        image: images/p18.jpg
+        title: House
+      - type: grid_item
+        image: images/p19.jpg
+        title: House
+      - type: grid_item
+        image: images/p20.jpg
+        title: Lawn
+      - type: grid_item
+        image: images/p21.jpg
+        title: Bathroom
+      - type: grid_item
+        image: images/p22.jpg
+        title: Bathroom
+      - type: grid_item
+        image: images/p23.jpg
+        title: Kitchen
+      - type: grid_item
+        image: images/p24.jpg
+        title: Bathroom
+      - type: grid_item
+        image: images/p25.jpg
+        title: Bedroom
+      - type: grid_item
+        image: images/p26.jpg
+        title: Roofing
+      - type: grid_item
+        image: images/p27.jpg
+        title: Roofing
+      - type: grid_item
+        image: images/p28.jpg
+        title: Roofing
   - type: section_cta
     title: Let us help you with your project.
     section_id: cta

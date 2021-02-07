@@ -28,7 +28,7 @@ export default class SectionGrid extends React.Component {
                       <div className="grid-item-inside">
                         {_.get(item, 'image', null) && (
                         <div className="grid-item-image">
-                          <img src={withPrefix(_.get(item, 'image', null))} alt={_.get(item, 'image_alt', null)} />
+                          <img loading="lazy" src={withPrefix(_.get(item, 'image', null))} alt={_.get(item, 'image_alt', null)} />
                         </div>
                         )}
                         {_.get(item, 'title', null) && (
