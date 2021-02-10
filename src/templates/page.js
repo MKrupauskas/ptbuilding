@@ -8,11 +8,6 @@ import SwiperCore, { Navigation, Pagination, A11y } from 'swiper';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
-import 'swiper/swiper.scss';
-import 'swiper/components/navigation/navigation.scss';
-import 'swiper/components/pagination/pagination.scss';
-import 'swiper/components/scrollbar/scrollbar.scss';
-
 SwiperCore.use([Navigation, Pagination, A11y]);
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
