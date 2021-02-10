@@ -4,10 +4,6 @@ import _ from 'lodash';
 
 import {withPrefix} from '../utils';
 import '../sass/main.scss';
-import 'swiper/swiper.scss';
-import 'swiper/components/navigation/navigation.scss';
-import 'swiper/components/pagination/pagination.scss';
-import 'swiper/components/scrollbar/scrollbar.scss';
 import Header from './Header';
 import Footer from './Footer';
 
