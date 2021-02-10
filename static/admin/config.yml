@@ -869,6 +869,16 @@ collections:
         label: Content
         required: false
         hint: Page content
+      - widget: list
+        name: images
+        label: Slider images
+        required: false
+        hint: Used for portfolio project pages
+        fields:
+          - widget: image
+            name: image
+            label: Image
+            required: false
     filter:
       field: template
       value: page

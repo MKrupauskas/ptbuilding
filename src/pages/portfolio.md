@@ -13,96 +13,30 @@ sections:
       - type: grid_item
         image: images/banner.jpg
         title: Kitchen
+        content: We build modern quality kitchens.
+        actions:
+          - type: action
+            label: Learn more
+            url: /modern-kitchen
+            style: link
       - type: grid_item
         image: images/house.jpg
         title: House
+        content: We can help you realize new housing constructions.
+        actions:
+          - type: action
+            label: Learn more
+            url: /new-house
+            style: link
       - type: grid_item
         image: images/roofs.jpg
         title: Traditional roofs
-      - type: grid_item
-        image: images/p1.jpg
-        title: Kitchen
-      - type: grid_item
-        image: images/p2.jpg
-        title: House
-      - type: grid_item
-        image: images/p3.jpg
-        title: Kitchen
-      - type: grid_item
-        image: images/p4.jpg
-        title: Kitchen
-      - type: grid_item
-        image: images/p5.jpg
-        title: Kitchen
-      - type: grid_item
-        image: images/p6.jpg
-        title: Kitchen
-      - type: grid_item
-        image: images/p7.jpg
-        title: Kitchen
-      - type: grid_item
-        image: images/p8.jpg
-        title: Kitchen
-      - type: grid_item
-        image: images/p9.jpg
-        title: Kitchen
-      - type: grid_item
-        image: images/p10.jpg
-        title: Kitchen
-      - type: grid_item
-        image: images/p11.jpg
-        title: Supports
-      - type: grid_item
-        image: images/p12.jpg
-        title: Refurbishment
-      - type: grid_item
-        image: images/p13.jpg
-        title: Bathroom
-      - type: grid_item
-        image: images/p14.jpg
-        title: Bathroom
-      - type: grid_item
-        image: images/p15.jpg
-        title: Kitchen
-      - type: grid_item
-        image: images/p16.jpg
-        title: Lawn
-      - type: grid_item
-        image: images/p17.jpg
-        title: House
-      - type: grid_item
-        image: images/p18.jpg
-        title: House
-      - type: grid_item
-        image: images/p19.jpg
-        title: House
-      - type: grid_item
-        image: images/p20.jpg
-        title: Lawn
-      - type: grid_item
-        image: images/p21.jpg
-        title: Bathroom
-      - type: grid_item
-        image: images/p22.jpg
-        title: Bathroom
-      - type: grid_item
-        image: images/p23.jpg
-        title: Kitchen
-      - type: grid_item
-        image: images/p24.jpg
-        title: Bathroom
-      - type: grid_item
-        image: images/p25.jpg
-        title: Bedroom
-      - type: grid_item
-        image: images/p26.jpg
-        title: Roofing
-      - type: grid_item
-        image: images/p27.jpg
-        title: Roofing
-      - type: grid_item
-        image: images/p28.jpg
-        title: Roofing
+        content: We are experts in many different types of roofing.
+        actions:
+          - type: action
+            label: Learn more
+            url: /traditional-roof
+            style: link
   - type: section_cta
     title: Let us help you with your project.
     section_id: cta
