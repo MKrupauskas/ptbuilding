@@ -2,7 +2,8 @@
 title: Traditional Roof
 subtitle: We are experts in many different types of roofing.
 image: images/banner.jpg
-template: page
+template: portfolio
+type: roof
 images:
   - image: /images/p26.jpg
   - image: /images/p27.jpg

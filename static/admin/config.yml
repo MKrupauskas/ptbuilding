@@ -869,6 +869,53 @@ collections:
         label: Content
         required: false
         hint: Page content
+    filter:
+      field: template
+      value: page
+  - name: portfolio
+    label: Portfolio
+    folder: src/portfolio
+    create: true
+    extension: md
+    identifier_field: title
+    slug: '{{slug}}'
+    summary: '{{title}}'
+    fields:
+      - widget: string
+        name: title
+        label: Title
+        required: true
+        hint: The title of the page
+      - widget: string
+        name: subtitle
+        label: Subtitle
+        required: false
+        hint: The text shown just below the page title
+      - widget: string
+        name: excerpt
+        label: Excerpt
+        required: false
+        hint: The excerpt of the page displayed in meta data
+      - widget: string
+        name: type
+        label: Type
+        required: true
+        hint: The type of the project, used for finding similar projects
+      - widget: image
+        name: image
+        label: Background Image
+        required: false
+        hint: The image shown in the background of the page header
+      - widget: hidden
+        name: template
+        label: Template
+        required: true
+        default: portfolio
+      - widget: markdown
+        name: body
+        label: Content
+        required: false
+        hint: Page content
       - widget: list
         name: images
         label: Slider images
@@ -881,7 +928,7 @@ collections:
             required: false
     filter:
       field: template
-      value: page
+      value: portfolio
   - name: post
     label: Posts
     folder: src/pages/blog

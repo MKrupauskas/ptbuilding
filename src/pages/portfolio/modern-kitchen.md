@@ -2,7 +2,8 @@
 title: Modern Kitchen
 subtitle: We build modern quality kitchens.
 image: images/banner.jpg
-template: page
+template: portfolio
+type: kitchen
 images:
   - image: /images/banner.jpg
   - image: /images/p1.jpg

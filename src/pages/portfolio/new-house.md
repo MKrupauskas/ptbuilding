@@ -2,7 +2,8 @@
 title: New House
 subtitle: We can help you realize new housing constructions.
 image: images/banner.jpg
-template: page
+template: portfolio
+type: kitchen
 images:
   - image: /images/house.jpg
   - image: /images/p19.jpg

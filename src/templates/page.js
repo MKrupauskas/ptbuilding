@@ -4,11 +4,6 @@ import { graphql } from 'gatsby';
 
 import { Layout } from '../components/index';
 import { toStyleObj, withPrefix, htmlToReact } from '../utils';
-import SwiperCore, { Navigation, Pagination, A11y } from 'swiper';
-
-import { Swiper, SwiperSlide } from 'swiper/react';
-
-SwiperCore.use([Navigation, Pagination, A11y]);
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
@@ -22,7 +17,6 @@ export const query = graphql`
 
 export default class Page extends React.Component {
   render() {
-    const images = _.get(this.props, 'pageContext.frontmatter.images', null);
     return (
       <Layout {...this.props}>
         <article className="post post-full">
@@ -54,30 +48,6 @@ export default class Page extends React.Component {
           </header>
           <div className="inner-md outer">
             <div className="post-content">
-              {images?.length && (
-                <Swiper
-                  spaceBetween={50}
-                  slidesPerView={1}
-                  navigation
-                  centeredSlides
-                  pagination={{ clickable: true }}
-                >
-                  {images.map(({ image }) => (
-                    <SwiperSlide>
-                      <img
-                        style={{
-                          width: '100%',
-                          height: 500,
-                          objectFit: 'contain',
-                        }}
-                        loading="lazy"
-                        src={image}
-                        alt=""
-                      />
-                    </SwiperSlide>
-                  ))}
-                </Swiper>
-              )}
               {htmlToReact(_.get(this.props, 'pageContext.html', null))}
             </div>
           </div>

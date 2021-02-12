@@ -21,7 +21,12 @@ sections:
         content: My kitchen looks amazing! Thank you again :)
       - type: grid_item
         title: Helen Stood
-        content: Highly recommend, extremely competent and reliable construction professionals.<br><br>P&T Building team removed our old kitchen inventory with old tiles and replaced them with higher quality ones. Before we had some issues with not equally lifting floor tiles, also our kitchen looked like from the early 80s.<br><br>Now we have very futuristically looking kitchen with equally rising floor tiles. Peter and his guys always turned on time and informed me about the progress and necessarily updates regarding my kitchen.<br><br>Not all construction specialists are the same! Peter is very knowledgeable in the renovating kitchens. I highly recommend you give P&T building a call.<br><br>I don't normally do detailed reviews but these guys earned it.
+        content: Highly recommend, extremely competent and reliable construction professionals.
+        actions:
+          - type: action
+            label: Read more
+            url: /testimonial-helen-stood
+            style: link
   - type: section_cta
     title: Let us help you with your project.
     section_id: cta

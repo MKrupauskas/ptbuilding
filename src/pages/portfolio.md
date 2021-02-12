@@ -17,7 +17,7 @@ sections:
         actions:
           - type: action
             label: Learn more
-            url: /modern-kitchen
+            url: /portfolio/modern-kitchen
             style: link
       - type: grid_item
         image: images/house.jpg
@@ -26,7 +26,7 @@ sections:
         actions:
           - type: action
             label: Learn more
-            url: /new-house
+            url: /portfolio/new-house
             style: link
       - type: grid_item
         image: images/roofs.jpg
@@ -35,7 +35,7 @@ sections:
         actions:
           - type: action
             label: Learn more
-            url: /traditional-roof
+            url: /portfolio/traditional-roof
             style: link
   - type: section_cta
     title: Let us help you with your project.
