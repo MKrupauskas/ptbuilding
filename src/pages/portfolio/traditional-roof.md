@@ -6,9 +6,6 @@ template: portfolio
 type: roof
 images:
   - image: /images/p26.jpg
-  - image: /images/p27.jpg
-  - image: /images/p28.jpg
-  - image: /images/roofs.jpg
 ---
 
 # Materials

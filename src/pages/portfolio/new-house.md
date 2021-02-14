@@ -1,15 +1,12 @@
 ---
-title: New House
+title: House
 subtitle: We can help you realize new housing constructions.
 image: images/banner.jpg
 template: portfolio
 type: house
 images:
   - image: /images/house.jpg
-  - image: /images/p19.jpg
-  - image: /images/p18.jpg
-  - image: /images/p17.jpg
-  - image: /images/p16.jpg
+  - image: /images/house-1.jpg
 ---
 
 # Materials

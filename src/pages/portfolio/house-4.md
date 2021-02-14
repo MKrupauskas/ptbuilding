@@ -6,6 +6,8 @@ template: portfolio
 type: house
 images:
   - image: /images/p2.jpg
+  - image: /images/p2-1.jpg
+  - image: /images/p2-2.jpg
 ---
 
 # Materials
