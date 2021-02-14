@@ -27,6 +27,21 @@ sections:
             label: Read more
             url: /testimonial-helen-stood
             style: link
+  - type: section_content
+    title: Leave your testimonial
+    content: >
+      <form name="testimonial" method="POST" action="/thank-you" data-netlify="true" style="text-align: left;">
+        <input type="hidden" name="form-name" value="testimonial" />
+        <p>
+          <label>Name <input type="text" name="name" /></label>
+        </p>
+        <p>
+          <label>Message <textarea name="message"></textarea></label>
+        </p>
+        <p>
+          <button class="button" type="submit">Send</button>
+        </p>
+      </form>
   - type: section_cta
     title: Let us help you with your project.
     section_id: cta
