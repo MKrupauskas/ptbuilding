@@ -11,19 +11,21 @@ export default class Body extends React.Component {
   render() {
     return (
       <React.Fragment>
-        {!this.props.isPreview && (
-          <Helmet>
+        <Helmet>
+          {!this.props.isPreview && (
             <title>
               {_.get(this.props, 'pageContext.frontmatter.title', null) &&
                 _.get(this.props, 'pageContext.frontmatter.title', null) +
                   ' - '}
               {_.get(this.props, 'pageContext.site.siteMetadata.title', null)}
             </title>
-            <meta charSet="utf-8" />
-            <meta
-              name="viewport"
-              content="width=device-width, initialScale=1.0"
-            />
+          )}
+          <meta charSet="utf-8" />
+          <meta
+            name="viewport"
+            content="width=device-width, initialScale=1.0"
+          />
+          {!this.props.isPreview && (
             <meta
               name="description"
               content={_.get(
@@ -32,12 +34,14 @@ export default class Body extends React.Component {
                 null,
               )}
             />
-            <link rel="preconnect" href="https://fonts.gstatic.com" />
-            <link
-              href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-              rel="stylesheet"
-            />
-            {_.get(
+          )}
+          <link rel="preconnect" href="https://fonts.gstatic.com" />
+          <link
+            href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+            rel="stylesheet"
+          />
+          {!this.props.isPreview &&
+            _.get(
               this.props,
               'pageContext.site.siteMetadata.favicon',
               null,
@@ -53,15 +57,18 @@ export default class Body extends React.Component {
                 )}
               />
             )}
+          {!this.props.isPreview && (
             <link href="/styles/main.css" rel="stylesheet" />
+          )}
+          {!this.props.isPreview && (
             <body
               className={
                 'palette-' +
                 _.get(this.props, 'pageContext.site.siteMetadata.palette', null)
               }
             />
-          </Helmet>
-        )}
+          )}
+        </Helmet>
         <div id="page" className="site">
           <Header {...this.props} />
           <main id="content" className="site-content">

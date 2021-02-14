@@ -9,7 +9,7 @@ import marked from 'marked';
 const Preview = (props) => {
   const entry = props.entry?.toJS?.();
   const { template, ...frontmatter } = entry?.data ?? {};
-  console.log(entry?.data);
+  console.log({ props, data: entry?.data });
 
   if (template === 'advanced') {
     return <Advanced pageContext={{ frontmatter }} isPreview />;
