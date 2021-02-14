@@ -857,7 +857,7 @@ collections:
       value: page
   - name: portfolio
     label: Portfolio
-    folder: src/portfolio
+    folder: src/pages/portfolio
     create: true
     extension: md
     identifier_field: title
