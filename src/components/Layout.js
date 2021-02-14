@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet';
 import _ from 'lodash';
 
 import { withPrefix } from '../utils';
-import '../sass/main.scss';
+// import '../sass/main.scss';
 import Header from './Header';
 import Footer from './Footer';
 
@@ -53,6 +53,7 @@ export default class Body extends React.Component {
                 )}
               />
             )}
+            <link href="/styles/main.css" rel="stylesheet" />
             <body
               className={
                 'palette-' +

@@ -15,12 +15,7 @@ import CtaButtons from './CtaButtons';
 
 SwiperCore.use([Navigation, Pagination, A11y]);
 
-type Props = {
-  pages: any;
-  type: string;
-};
-
-export const SimilarProjects: React.FC<Props> = ({ pages, type }) => {
+export const SimilarProjects = ({ pages, type }) => {
   if (!pages?.length) {
     return null;
   }
