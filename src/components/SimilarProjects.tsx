@@ -65,6 +65,11 @@ export const SimilarProjects: React.FC<Props> = ({ pages, type }) => {
                       loading="lazy"
                       src={withPrefix(_.get(item, 'image', null))}
                       alt={_.get(item, 'image_alt', null)}
+                      style={{
+                        width: '100%',
+                        height: 250,
+                        objectFit: 'cover',
+                      }}
                     />
                   </div>
                 )}

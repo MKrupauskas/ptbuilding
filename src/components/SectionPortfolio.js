@@ -97,6 +97,11 @@ const SectionPortfolio = (props) => {
                           loading="lazy"
                           src={withPrefix(_.get(item, 'image', null))}
                           alt={_.get(item, 'image_alt', null)}
+                          style={{
+                            height: 300,
+                            width: '100%',
+                            objectFit: 'contain',
+                          }}
                         />
                       </div>
                     )}
