@@ -530,33 +530,16 @@ collections:
                 required: true
                 hint: The type of the object
                 default: section_cta
-          - name: section_docs
+          - name: section_portfolio
             widget: object
-            label: Documentation Overview Section
+            label: Portfolio Section
             fields:
-              - widget: string
-                name: title
-                label: Title
-                required: false
-                hint: The title of the section.
-              - widget: string
-                name: section_id
-                label: Section ID
-                required: false
-                hint: >-
-                  A unique identifier of the section, must not contain
-                  whitespace
-              - widget: string
-                name: subtitle
-                label: Subtitle
-                required: false
-                hint: The subtitle of the section
               - widget: select
                 name: col_number
                 label: Columns
                 required: true
                 default: three
-                hint: The number of documentation sections in a row
+                hint: The number of grid items in a row
                 options:
                   - two
                   - three
@@ -565,7 +548,7 @@ collections:
                 label: Object Type
                 required: true
                 hint: The type of the object
-                default: section_docs
+                default: section_portfolio
           - name: section_grid
             widget: object
             label: Grid Section

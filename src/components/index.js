@@ -10,39 +10,42 @@ import SectionCta from './SectionCta';
 import SectionDocs from './SectionDocs';
 import SectionGrid from './SectionGrid';
 import SectionHero from './SectionHero';
+import SectionPortfolio from './SectionPortfolio';
 import Submenu from './Submenu';
 import Layout from './Layout';
 
 export {
-    ActionLink,
-    CtaButtons,
-    DocsMenu,
-    DocsSubmenu,
-    Footer,
-    Header,
-    Icon,
-    SectionContent,
-    SectionCta,
-    SectionDocs,
-    SectionGrid,
-    SectionHero,
-    Submenu,
-    Layout
+  ActionLink,
+  CtaButtons,
+  DocsMenu,
+  DocsSubmenu,
+  Footer,
+  Header,
+  Icon,
+  SectionContent,
+  SectionCta,
+  SectionDocs,
+  SectionGrid,
+  SectionHero,
+  SectionPortfolio,
+  Submenu,
+  Layout,
 };
 
 export default {
-    ActionLink,
-    CtaButtons,
-    DocsMenu,
-    DocsSubmenu,
-    Footer,
-    Header,
-    Icon,
-    SectionContent,
-    SectionCta,
-    SectionDocs,
-    SectionGrid,
-    SectionHero,
-    Submenu,
-    Layout
+  ActionLink,
+  CtaButtons,
+  DocsMenu,
+  DocsSubmenu,
+  Footer,
+  Header,
+  Icon,
+  SectionContent,
+  SectionCta,
+  SectionDocs,
+  SectionGrid,
+  SectionHero,
+  SectionPortfolio,
+  Submenu,
+  Layout,
 };
