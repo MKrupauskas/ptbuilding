@@ -15,7 +15,7 @@
     "classnames": "^2.2.6",
     "fs-extra": "^7.0.1",
     "gatsby": "2.22.17",
-    "gatsby-plugin-netlify-cms": "^4.10.0",
+    "gatsby-plugin-netlify-cms": "^4.9.0",
     "gatsby-plugin-react-helmet": "^3.3.3",
     "gatsby-plugin-sass": "^2.3.12",
     "gatsby-source-filesystem": "2.3.10",
