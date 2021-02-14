@@ -56,8 +56,8 @@ export default class Page extends React.Component {
         (item) =>
           item.frontmatter?.type ===
           _.get(this.props, 'pageContext.frontmatter.type', null),
-      )
-      .filter((item, index) => index < 2);
+      );
+
     return (
       <Layout {...this.props}>
         <article className="post post-full">
@@ -114,7 +114,10 @@ export default class Page extends React.Component {
                 </Swiper>
               )}
               {htmlToReact(_.get(this.props, 'pageContext.html', null))}
-              <SimilarProjects pages={relatedPages} />
+              <SimilarProjects
+                pages={relatedPages}
+                type={_.get(this.props, 'pageContext.frontmatter.type', null)}
+              />
             </div>
           </div>
         </article>
