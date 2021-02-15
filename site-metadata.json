@@ -1,92 +1,93 @@
 {
+  "title": "PTBuilding",
+  "palette": "navy",
+  "header": {
+    "type": "header",
     "title": "PTBuilding",
-    "palette": "navy",
-    "header": {
-        "type": "header",
-        "title": "PTBuilding",
-        "logo_img_alt": "PTBuilding",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "type": "action_menu",
-                "label": "Home",
-                "url": "/",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "About",
-                "url": "/about",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "Portfolio",
-                "url": "/portfolio",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "Testimonials",
-                "url": "/testimonials",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "Services",
-                "url": "/services",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "Contact",
-                "url": "/contact",
-                "style": "primary",
-                "has_subnav": false
-            }
-        ]
-    },
-    "footer": {
-        "type": "footer",
-        "content": "&copy; PTBuilding. All rights reserved.",
-        "has_social": true,
-        "social_links": [
-            {
-                "type": "action",
-                "label": "Facebook",
-                "url": "https://www.facebook.com/PandTBuilding",
-                "style": "icon",
-                "icon_class": "facebook",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "Twitter",
-                "url": "/",
-                "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "LinkedIn",
-                "url": "/",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
-            }
-        ]
-    }
+    "logo_img_alt": "PTBuilding",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "type": "action_menu",
+        "label": "Home",
+        "url": "/",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "About",
+        "url": "/about",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "Portfolio",
+        "url": "/portfolio",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "Testimonials",
+        "url": "/testimonials",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "Services",
+        "url": "/services",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "Blog",
+        "url": "/blog",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "Contact",
+        "url": "/contact",
+        "style": "primary",
+        "has_subnav": false
+      }
+    ]
+  },
+  "footer": {
+    "type": "footer",
+    "content": "&copy; PTBuilding. All rights reserved.",
+    "has_social": true,
+    "social_links": [
+      {
+        "type": "action",
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PandTBuilding",
+        "style": "icon",
+        "icon_class": "facebook",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "Twitter",
+        "url": "/",
+        "style": "icon",
+        "icon_class": "twitter",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "LinkedIn",
+        "url": "/",
+        "style": "icon",
+        "icon_class": "linkedin",
+        "new_window": true
+      }
+    ]
+  },
+  "favicon": "/images/1.png"
 }
