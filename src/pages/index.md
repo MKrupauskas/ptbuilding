@@ -64,8 +64,9 @@ sections:
       - type: grid_item
         title: Finishes
         image: images/p4.jpg
-        content: |
-          Contruction is all about the little quality details in every build. We can help you finish your interiors.
+        content: >
+          Contruction is all about the little quality details in every build. We
+          can help you finish your interiors.
         actions:
           - type: action
             label: See Our Work
@@ -74,8 +75,9 @@ sections:
       - type: grid_item
         title: Other Projects
         image: images/p16.jpg
-        content: |
-          Our team can implement the idea you have. We have a broad range of construction skills.
+        content: >
+          Our team can implement the idea you have. We have a broad range of
+          construction skills.
         actions:
           - type: action
             label: See Our Work
@@ -86,10 +88,9 @@ sections:
     section_id: text-img
     image: images/p18.jpg
     image_position: left
-    content: >
-      We are the number one quality providing construction company in the UK.
-      With a great team of experts, we will bring your construction dream to
-      life.
+    content: We are the right company for customers looking for high standards of
+      quality. With a great team of experts, we will bring your construction
+      dream to life.
     actions:
       - type: action
         label: Contact
