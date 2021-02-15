@@ -55,7 +55,8 @@ const SectionPortfolio = (props) => {
             },
           ],
         };
-      }),
+      })
+      .sort((a, b) => a.title?.localeCompare(b.title)),
   };
   return (
     <section
@@ -100,7 +101,7 @@ const SectionPortfolio = (props) => {
                           style={{
                             height: 300,
                             width: '100%',
-                            objectFit: 'contain',
+                            objectFit: 'cover',
                           }}
                         />
                       </div>
