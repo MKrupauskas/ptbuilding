@@ -29,7 +29,7 @@ export default class Body extends React.Component {
               content={_.get(
                 this.props,
                 'pageContext.frontmatter.excerpt',
-                null,
+                'A modern approach construction company with international experience in developing projects and incorporating innovations into construction operations.',
               )}
             />
             <link rel="preconnect" href="https://fonts.gstatic.com" />
