@@ -21,7 +21,7 @@ E4 9JN
 
 This is the privacy notice of P&T Building LTD. In this document, “we”, “our”, or “us” refer to P&T Building LTD
 
-We are company number 12623261 registered in England
+We are company number 09869832 registered in England
 
 [](https://www.domexus.com/privacy-policy#h.27dkn9x6ncqg)
 
