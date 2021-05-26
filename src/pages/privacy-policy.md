@@ -91,7 +91,7 @@ Place of processing: US –[ **Privacy Policy**](https://www.google.com/intl/en/
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: US – ***[Privacy Policy](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fabout%2Fprivacy%2F&sa=D&sntz=1&usg=AFQjCNEOB68uwgLOOkZE6h6P-Zfzfg7ZMA)***.
+Place of processing: US – **[Privacy Policy](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fabout%2Fprivacy%2F&sa=D&sntz=1&usg=AFQjCNEOB68uwgLOOkZE6h6P-Zfzfg7ZMA)**.
 
 [](https://www.domexus.com/privacy-policy#h.imxtnco2nvvg)
 
