@@ -17,7 +17,7 @@ London
 
 E4 9JN
 
-**Owner contact email: privacy@domexus.com**
+**Owner contact email: info@ptbuilding.com**
 
 This is the privacy notice of P&T Building LTD. In this document, “we”, “our”, or “us” refer to P&T Building LTD
 
@@ -63,7 +63,7 @@ The Data Controller correctly manages the user's data and takes the protection s
 
 **Place**
 
-Data is stored at the administrative office of P&T Building, the Data Controller’s operating offices Information Controller and at every other place where the production parties operate. Check the Data Handler-Email us for more details at **privacy@domexus.com**.
+Data is stored at the administrative office of P&T Building, the Data Controller’s operating offices Information Controller and at every other place where the production parties operate. Check the Data Handler-Email us for more details at **info@ptbuilding.com.**
 
 [](https://www.domexus.com/privacy-policy#h.xkqrv35qb1t0)
 
@@ -97,7 +97,7 @@ Place of processing: US – ***[Privacy Policy](https://www.google.com/url?q=htt
 
 **Remarketing and behavioural targeting**
 
-This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioural targeting activity. In addition to any oopt-outoffered by any of the services below, the User may opt out of a third-party service’s use of cookies by visiting the **\*[Network Advertising Initiative opt-out page](http://www.google.com/url?q=http%3A%2F%2Foptout.networkadvertising.org%2F&sa=D&sntz=1&usg=AFQjCNHamQMdAMZzzYYIgFFaKeTugFknxQ)**.*
+This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioural targeting activity. In addition to any oopt-outoffered by any of the services below, the User may opt out of a third-party service’s use of cookies by visiting the **[Network Advertising Initiative opt-out page](http://www.google.com/url?q=http%3A%2F%2Foptout.networkadvertising.org%2F&sa=D&sntz=1&usg=AFQjCNHamQMdAMZzzYYIgFFaKeTugFknxQ)**.
 
 **AdWords Remarketing (Google Inc.)**
 
@@ -141,7 +141,7 @@ If we are allowed or legally needed to do so, we do not offer, share or rent you
 
 The personal data we keep about you under the Data Protection Act 1998 may be requested by you. There is a tiny charge to pay. Please feel free to contact us if you want to obtain a copy of the documents.
 
-Please contact us or write to us as soon as possible, at the address below, if you feel that any details, we might have about you are inaccurate or incomplete. All knowledge which we think is wrong will be fixed promptly. Please contact **privacy@domexus.com**
+Please contact us or write to us as soon as possible, at the address below, if you feel that any details, we might have about you are inaccurate or incomplete. All knowledge which we think is wrong will be fixed promptly. Please contact **info@ptbuilding.com**
 
 **Variations to the Policy**
 
