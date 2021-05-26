@@ -9,7 +9,7 @@ Details about P&T Building and its facilities have been accessible on the follow
 
 **Owner and Data Controller**
 
-DOMEXUS
+P&T Building
 
 193, Winchester Rd
 
@@ -73,7 +73,7 @@ Data is stored at the administrative office of P&T Building, the Data Controller
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: US – ***[Privacy Policy](https://www.google.com/intl/en/policies/privacy/)** – **[Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)**.*
+Place of processing: US – **\*[Privacy Policy](https://www.google.com/intl/en/policies/privacy/)** – **[Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)**.*
 
 **Google Tag Manager**
 
@@ -93,13 +93,11 @@ Personal Data collected: Cookies and Usage Data.
 
 Place of processing: US – ***[Privacy Policy](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fabout%2Fprivacy%2F&sa=D&sntz=1&usg=AFQjCNEOB68uwgLOOkZE6h6P-Zfzfg7ZMA)***.
 
-
-
 [](https://www.domexus.com/privacy-policy#h.imxtnco2nvvg)
 
 **Remarketing and behavioural targeting**
 
-This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioural targeting activity. In addition to any oopt-outoffered by any of the services below, the User may opt out of a third-party service’s use of cookies by visiting the ***[Network Advertising Initiative opt-out page](http://www.google.com/url?q=http%3A%2F%2Foptout.networkadvertising.org%2F&sa=D&sntz=1&usg=AFQjCNHamQMdAMZzzYYIgFFaKeTugFknxQ)**.*
+This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioural targeting activity. In addition to any oopt-outoffered by any of the services below, the User may opt out of a third-party service’s use of cookies by visiting the **\*[Network Advertising Initiative opt-out page](http://www.google.com/url?q=http%3A%2F%2Foptout.networkadvertising.org%2F&sa=D&sntz=1&usg=AFQjCNHamQMdAMZzzYYIgFFaKeTugFknxQ)**.*
 
 **AdWords Remarketing (Google Inc.)**
 
@@ -107,13 +105,13 @@ AdWords Remarketing is a remarketing and behavioural targeting service provided 
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: US – ***[Privacy Policy](http://www.google.com/intl/en/policies/privacy/)** – **[Opt Out](https://www.google.com/settings/ads/onweb/optout)**.*
+Place of processing: US – **\*[Privacy Policy](http://www.google.com/intl/en/policies/privacy/)** – **[Opt Out](https://www.google.com/settings/ads/onweb/optout)**.*
 
 **Facebook Custom Audience (Facebook, Inc.)**
 
 Personal Data collected: Cookies and email address.
 
-Place of processing: US – ***[Privacy Policy](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fabout%2Fprivacy%2F&sa=D&sntz=1&usg=AFQjCNEOB68uwgLOOkZE6h6P-Zfzfg7ZMA)** – **[Opt Out](https://www.google.com/url?q=https%3A%2F%2Fwww.aboutads.info%2Fchoices%2F&sa=D&sntz=1&usg=AFQjCNHN49bzD4eC7yK74FH72l6skqtqeQ)***
+Place of processing: US – **\*[Privacy Policy](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fabout%2Fprivacy%2F&sa=D&sntz=1&usg=AFQjCNEOB68uwgLOOkZE6h6P-Zfzfg7ZMA)** – **[Opt Out](https://www.google.com/url?q=https%3A%2F%2Fwww.aboutads.info%2Fchoices%2F&sa=D&sntz=1&usg=AFQjCNHN49bzD4eC7yK74FH72l6skqtqeQ)***
 
 **Facebook Remarketing (Facebook, Inc.)**
 
