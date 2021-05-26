@@ -73,19 +73,19 @@ Data is stored at the administrative office of P&T Building, the Data Controller
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: US – **\*[Privacy Policy](https://www.google.com/intl/en/policies/privacy/)** – **[Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)**.*
+Place of processing: US – **[Privacy Policy](https://www.google.com/intl/en/policies/privacy/)** – **[Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)**.
 
 **Google Tag Manager**
 
 Google Tag Manager is a tag solution to managing the tags, or the snippets of JavaScript that send information to third-parties, on your website or mobile app
 
-Place of processing US –* **[Privacy Policy](https://www.google.com/analytics/tag-manager/use-policy/)***
+Place of processing US –[ **Privacy Policy**](https://www.google.com/analytics/tag-manager/use-policy/)
 
 **Google AdWords conversion tracking (Google Inc.)**
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: US –* **[Privacy Policy](https://www.google.com/intl/en/policies/privacy/)***.
+Place of processing: US –[ **Privacy Policy**](https://www.google.com/intl/en/policies/privacy/).
 
 **Facebook Ads conversion tracking (Facebook, Inc.)**
 
@@ -105,13 +105,13 @@ AdWords Remarketing is a remarketing and behavioural targeting service provided 
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: US – **\*[Privacy Policy](http://www.google.com/intl/en/policies/privacy/)** – **[Opt Out](https://www.google.com/settings/ads/onweb/optout)**.*
+Place of processing: US – **[Privacy Policy](http://www.google.com/intl/en/policies/privacy/)** – **[Opt Out](https://www.google.com/settings/ads/onweb/optout)**.
 
 **Facebook Custom Audience (Facebook, Inc.)**
 
 Personal Data collected: Cookies and email address.
 
-Place of processing: US – **\*[Privacy Policy](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fabout%2Fprivacy%2F&sa=D&sntz=1&usg=AFQjCNEOB68uwgLOOkZE6h6P-Zfzfg7ZMA)** – **[Opt Out](https://www.google.com/url?q=https%3A%2F%2Fwww.aboutads.info%2Fchoices%2F&sa=D&sntz=1&usg=AFQjCNHN49bzD4eC7yK74FH72l6skqtqeQ)***
+Place of processing: US – **[Privacy Policy](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fabout%2Fprivacy%2F&sa=D&sntz=1&usg=AFQjCNEOB68uwgLOOkZE6h6P-Zfzfg7ZMA)** – **[Opt Out](https://www.google.com/url?q=https%3A%2F%2Fwww.aboutads.info%2Fchoices%2F&sa=D&sntz=1&usg=AFQjCNHN49bzD4eC7yK74FH72l6skqtqeQ)**
 
 **Facebook Remarketing (Facebook, Inc.)**
 
