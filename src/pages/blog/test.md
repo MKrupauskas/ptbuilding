@@ -3,7 +3,7 @@ title: A fantastic solution for a boring backyard
 subtitle: "Backyard kitchen "
 date: 2021-05-30T15:48:58.990Z
 thumb_image: /images/lkkikik.jpg
-thumb_image_alt: test
+thumb_image_alt: No more boring backyard
 image: /images/lkkikik.jpg
 template: post
 ---
