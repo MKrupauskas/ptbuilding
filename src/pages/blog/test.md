@@ -5,6 +5,7 @@ date: 2021-05-30T15:48:58.990Z
 thumb_image: /images/lkkikik.jpg
 thumb_image_alt: No more boring backyard
 image: /images/lkkikik.jpg
+excerpt: No more boring backyard
 template: post
 ---
 ![Kitchen perfect for family](/images/lauko-kitchenas.jpg)
