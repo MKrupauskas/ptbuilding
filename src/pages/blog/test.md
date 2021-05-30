@@ -13,4 +13,8 @@ The way we use our homes is changing and thanks to the pandemic, making the most
 
 The outdoor kitchen is the best decision you can make for your backyard. Apart from being more often in the fresh air that is essential for your health, you will enjoy so many more benefits. Any gathering at your house will turn into exciting and unforgettable memories. Surprisingly, an outdoor kitchen will also save you money because of lower energy bills. The heat from cooking outside won't raise your home's temperature. This means your air conditioner won't have to work as hard. Also, once you installed the outdoor kitchen, the price of your property will skyrocket. A study found homes with an outdoor kitchen have a return on investment of between 100% and 200% than homes without. Do not miss out on such an exclusive investment! 
 
+![Banner](/images/lkk.jpg)
+
 You need to consider many factors when building an outdoor kitchen and no team is better suited to helping you through the process than P&T building ltd. Good planning is key to ensuring you don't become a victim of any overspends. Knowing exactly what you require and setting a realistic budget to achieve it will ensure you can create your perfect space without having to deal with spiralling costs along the way. We will work with you every step of the way to make sure you get the outdoor living space you want for the best price. Once the outdoor kitchen is installed, we guarantee it will last a lifetime without investing more money and time into it because we are richly experienced professionals and use only high-quality materials. To start your journey or get more information call us on 020 3538 6544 or visit our [website](https://ptbuilding.co.uk/contact/).
+
+![Banner](/images/lkkikik.jpg)
