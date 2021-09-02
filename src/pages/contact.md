@@ -4,8 +4,7 @@ subtitle: Send us a message and we will discuss your project as soon as possible
 image: images/banner.jpg
 template: page
 ---
-
-Phone: <a href="tel:(+44) 7714 303002">(+44) 7714 303002</a>
+Phone: <a href="tel:(+44) 7714 303002">020 3538 6544</a>
 
 E-mail: <a href="mailto:info@ptbuilding.co.uk">info@ptbuilding.co.uk</a>
 

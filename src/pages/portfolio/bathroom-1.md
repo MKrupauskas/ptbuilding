@@ -1,17 +1,16 @@
 ---
 title: Bathroom
 subtitle: We build modern quality bathrooms.
+type: bathroom
 image: images/banner.jpg
 template: portfolio
-type: bathroom
 images:
   - image: /images/p13.jpg
 ---
+# Style
 
-# Materials
-
-We used high quality materials.
+Victoria style bathroom
 
 # Timeline
 
-Our timeline for the project was a single week.
+Our timeline for the project was completed within 1 week.

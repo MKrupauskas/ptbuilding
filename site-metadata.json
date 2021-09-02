@@ -87,6 +87,16 @@
         "icon_class": "linkedin",
         "new_window": true
       }
+    ],
+    "links": [
+      {
+        "style": "link",
+        "new_window": true,
+        "no_follow": false,
+        "type": "action",
+        "label": "Privacy Policy",
+        "url": "https://ptbuilding.co.uk/privacy-policy"
+      }
     ]
   },
   "favicon": "/images/1.png"
