@@ -60,6 +60,14 @@ export default class Body extends React.Component {
                 _.get(this.props, 'pageContext.site.siteMetadata.palette', null)
               }
             />
+            <noscript>
+              <img
+                height="1"
+                width="1"
+                style="display:none"
+                src="https://www.facebook.com/tr?id=888390718455357&ev=PageView&noscript=1"
+              />
+            </noscript>
           </Helmet>
         )}
         <div id="page" className="site">
