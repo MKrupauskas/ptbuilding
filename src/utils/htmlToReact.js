@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactHtmlParser, { convertNodeToElement } from 'react-html-parser';
-import ScriptTag from 'react-script-tag';
+// import ScriptTag from 'react-script-tag';
 import Link from './link';
 import _ from 'lodash';
 
@@ -15,12 +15,12 @@ export default function htmlToReact(html) {
             if (node.type === 'script') {
                 if (!_.isEmpty(node.children)) {
                     return (
-                        <ScriptTag key={index} {...node.attribs}>
+                        <script key={index} {...node.attribs}>
                             {convertChildren(node.children, index)}
-                        </ScriptTag>
+                        </script>
                     );
                 } else {
-                    return <ScriptTag key={index} {...node.attribs}/>;
+                    return <script key={index} {...node.attribs}/>;
                 }
             } else if (node.type === 'tag' && node.name === 'a') {
                 const href = node.attribs.href;
