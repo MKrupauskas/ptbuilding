@@ -1,9 +1,9 @@
 ---
 title: Bathroom
 subtitle: We build modern quality bathrooms.
-image: images/banner.jpg
-template: portfolio
 type: bathroom
+image: /images/b1.jpg
+template: portfolio
 images:
   - image: /images/b1.jpg
   - image: /images/b2.jpg
