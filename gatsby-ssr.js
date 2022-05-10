@@ -13,6 +13,10 @@ exports.onRenderBody = function ({ setHeadComponents, setPostBodyComponents }) {
       name="facebook-domain-verification"
       content="3la6ahcjbqsnt7gltzh1e0mqkvi7u8"
     />,
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-228389443-1"
+    />,
   ]);
 
   setPostBodyComponents([
@@ -21,6 +25,7 @@ exports.onRenderBody = function ({ setHeadComponents, setPostBodyComponents }) {
       <script src={withPrefix('assets/js/main.js')} />
       <script src={withPrefix('assets/js/page-load.js')} />
       <script src={withPrefix('assets/js/page-unload.js')} />
+      <script src={withPrefix('assets/js/gtag.js')} />
     </React.Fragment>,
   ]);
 };
